@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PlaymerBot": {
+      "commandName": "Project",
+      "workingDirectory": "$(ProjectDir)"
+    }
+  }
+}
